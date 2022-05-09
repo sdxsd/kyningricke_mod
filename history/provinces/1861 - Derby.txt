@@ -5,8 +5,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = ENG
-controller = ENG
+owner = MLD
+controller = MLD
 culture = anglosaxon
 religion = catholic
 hre = no
@@ -19,6 +19,7 @@ is_city = yes
 add_core = ENG
 add_core = NOL
 add_core = RLD
+add_core = MLD
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

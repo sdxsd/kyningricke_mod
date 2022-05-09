@@ -3,14 +3,15 @@
 owner = RLD
 controller = RLD
 capital = "Calais"
-culture = wallonian
+culture = flemish
 religion = catholic
-hre = no
+hre = yes
 base_tax = 5 
 base_production = 5
 trade_goods = fish
 base_manpower = 3
 add_core = ENG
+add_core = NOL
 add_core = RLD
 discovered_by = eastern
 discovered_by = western
